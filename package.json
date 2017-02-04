@@ -97,7 +97,7 @@
   "devDependencies": {
     "@knisterpeter/standard-tslint": "1.1.0",
     "@types/lru-cache": "4.0.0",
-    "@types/mocha": "^2.2.32",
+    "@types/mocha": "^2.2.39",
     "@types/node": "^7.0.4",
     "conventional-changelog-lint": "1.1.0",
     "cz-customizable": "4.0.0",
